@@ -1,3 +1,5 @@
 # hello-world
 learning github
-oops, wrong branch!
+music and chocolate and space and all things awesome
+python needs to be learned I suppose
+
